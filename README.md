@@ -19,3 +19,5 @@
 - cloudflare : https://www.cloudflare.com/learning/ddos/dns-amplification-ddos-attack/
 - RFC 9267: https://datatracker.ietf.org/doc/rfc9267/
 - RFC 5358: https://datatracker.ietf.org/doc/html/rfc5358
+
+**⚠️ Disclaimer**: เครื่องมือนี้พัฒนาขึ้นเพื่อการป้องกันภัยคุกคามทางไซเบอร์ ผู้พัฒนาไม่รับผิดชอบต่อการใช้งานที่ผิดวัตถุประสงค์หรือก่อให้เกิดความเสียหาย
